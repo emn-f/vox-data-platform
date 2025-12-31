@@ -12,7 +12,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
-logger = logging.getLogger("🎲 Vox - Data Platform")
+logger = logging.getLogger("🎲 Vox-Data-Platform")
 
 load_dotenv()
 
@@ -58,7 +58,7 @@ def get_gemini_embedding(text: str) -> Optional[List[float]]:
     except Exception as e:
         logger.error(f"Erro na API do Gemini: {e}")
         return None
-    
+
 if __name__ == "__main__":
     print("Tetando novo SDK google-genai")
     
@@ -69,4 +69,3 @@ if __name__ == "__main__":
         print(f"Primeiros 5 valores: {vetor[:5]}")
     else:
         print("erro")
-    

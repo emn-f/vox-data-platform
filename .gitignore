@@ -1,12 +1,36 @@
 # ==============================================================================
-# Variáveis de ambiente
+# Python & Virtual Environments
 # ==============================================================================
-.env
-
-# ==============================================================================
-# Arquivos do PyTest
-# ==============================================================================
+__pycache__/
 .pytest_cache
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Envs
+.env
+.venv/
+env/
+venv/
+ENV/
 
 # ==============================================================================
 # IDE

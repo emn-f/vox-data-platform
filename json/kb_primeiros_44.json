@@ -1,0 +1,647 @@
+[
+  {
+    "kb_id": "vox-kb-0000",
+    "topico": "N/A",
+    "eixo_tematico": "N/A",
+    "descricao": "N/A",
+    "referencias": null,
+    "tags": null,
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0001",
+    "topico": "Escola e Universidade",
+    "eixo_tematico": "Educação e Cultura",
+    "descricao": "Diretrizes como o Programa Escola Sem Homofobia (PEBH) incluem oficinas e debates em sala de aula; por exemplo, a Lei 13.185/2015 institui programas de prevenção à violência e contribui para diminuir casos de bullying contra estudantes LGBTQIA+.",
+    "referencias": "[\"Lei 13.185/2015 (Programa Escola Segura do Ministério da Educação)\",\"Relatório UNESCO ‘School Violence and Bullying’ (2017)\"]",
+    "tags": [
+      "bullying",
+      "escola",
+      "leis",
+      "educação"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0002",
+    "topico": "Saúde Mental",
+    "eixo_tematico": "Saúde e Bem-estar",
+    "descricao": "A ausência de profissionais capacitados em clínicas públicas gera longas filas de espera; por exemplo, o CAPS Trans em São Paulo recebe pacientes após meses de agendamento, evidenciando lacunas no atendimento.",
+    "referencias": "[\"Portaria GM/MS nº 2.803/2013 (SUS cria CAPS Trans)\",\"FIORUCCI, Marcio et al. ‘Atendimento de pessoas trans no SUS’ Revista Saúde em Debate 2022\"]",
+    "tags": [
+      "sus",
+      "caps",
+      "psicologia",
+      "transição"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0003",
+    "topico": "Cultura e Representatividade",
+    "eixo_tematico": "Educação e Cultura",
+    "descricao": "Romances como “Um Útero É Do Tamanho de Um Punho” apresentam protagonistas não binárias, ampliando a discussão sobre gêneros e promovendo maior visibilidade dessas identidades.",
+    "referencias": "[\"VAZ, Alice. Um Útero É Do Tamanho de Um Punho. Editora Patuá, 2021\"]",
+    "tags": [
+      "literatura",
+      "não-binárie",
+      "livros",
+      "cultura brasileira"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0004",
+    "topico": "Ativismo Digital",
+    "eixo_tematico": "Sociedade e Ativismo",
+    "descricao": "Comunidades no Instagram e grupos no TikTok oferecem referências e acolhimento; canais como @lgbtqhistória estimulam o processo de autoaceitação.",
+    "referencias": "[]",
+    "tags": [
+      "internet",
+      "redes sociais",
+      "engajamento",
+      "comunidade"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0005",
+    "topico": "Violência e Segurança",
+    "eixo_tematico": "Direitos e Legislação",
+    "descricao": "Estudos mostram que 45% das mulheres lésbicas já sofreram violência física doméstica; a Lei Maria da Penha (Lei 11.340/2006) é aplicada, mas carece de protocolos específicos para lésbicas.",
+    "referencias": "[\"Lei 11.340/2006 (Maria da Penha)\",\"Relatório Instituto Patrícia Galvão, ‘Violência contra mulheres lésbicas’ 2021\"]",
+    "tags": [
+      "lei maria da penha",
+      "violência doméstica",
+      "lésbicas",
+      "denúncia"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0006",
+    "topico": "Ativismo Digital",
+    "eixo_tematico": "Sociedade e Ativismo",
+    "descricao": "Ferramentas como petições online (Change.org) e hashtags (#LGBTQPride) mobilizam apoiadores e pressionam legisladores, aumentando o engajamento em pautas de direitos civis.",
+    "referencias": "[]",
+    "tags": [
+      "internet",
+      "redes sociais",
+      "engajamento",
+      "comunidade"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0007",
+    "topico": "Saúde Trans",
+    "eixo_tematico": "Saúde e Bem-estar",
+    "descricao": "A retirada da transgeneridade da CID-11 reduziu barreiras para tratamentos de afirmação de gênero; por exemplo, portarias como a nº 2.803/2013 flexibilizam o acesso a hormonioterapia no SUS.",
+    "referencias": "[\"Classificação ICD-11 da OMS (2019)\",\"Portaria GM/MS nº 2.803/2013\"]",
+    "tags": [
+      "sus",
+      "hormonioterapia",
+      "cid-11",
+      "despatologização",
+      "saúde"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0008",
+    "topico": "Mercado de Trabalho",
+    "eixo_tematico": "Sociedade e Ativismo",
+    "descricao": "Artigos da CLT e normas ISO 30415 obrigam empresas a criar políticas antiassédio; algumas organizações adotam cartilhas internas e canais anônimos de denúncia.",
+    "referencias": "[]",
+    "tags": [
+      "emprego",
+      "clt",
+      "empresas",
+      "direitos trabalhistas",
+      "inclusão"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0009",
+    "topico": "Cidadania",
+    "eixo_tematico": "Direitos e Legislação",
+    "descricao": "Marcos como a revogação da Portaria 1.820/1999 e a decisão do STF em 2011 que reconheceu a união estável homoafetiva são marcos legais.",
+    "referencias": "[\"STF, ADI 4277/2010 e ADPF 132/2011\",\"Portaria 1.820/1999 (Forças Armadas)\"]",
+    "tags": [
+      "stf",
+      "união estável",
+      "casamento civil",
+      "história",
+      "conquistas"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0010",
+    "topico": "Cultura e Representatividade",
+    "eixo_tematico": "Educação e Cultura",
+    "descricao": "Séries como “Sintonia” e filmes como “Hoje Eu Quero Voltar Sozinho” aumentam a aceitação social ao retratar relacionamentos LGBTQIA+ de forma natural.",
+    "referencias": "[]",
+    "tags": [
+      "cinema",
+      "tv",
+      "séries",
+      "cultura pop",
+      "visibilidade"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0011",
+    "topico": "Mercado de Trabalho",
+    "eixo_tematico": "Sociedade e Ativismo",
+    "descricao": "Feiras populares e ambulantes LGBTQIA+ relatam conflitos com fiscalização; em Salvador, iniciativas de cooperativas criam redes de apoio para formalização de negócios.",
+    "referencias": "[]",
+    "tags": [
+      "trabalho informal",
+      "economia solidária",
+      "ambulantes",
+      "salvador"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0012",
+    "topico": "Cultura e Representatividade",
+    "eixo_tematico": "Educação e Cultura",
+    "descricao": "Telejornais e programas exibem pautas de diversidade, mas ainda há ausência de pessoas trans como apresentadoras; pesquisas da Aberje indicam sub-representação no rádio e na TV.",
+    "referencias": "[\"Pesquisa ABERJE, ‘Representação LGBTQIA+ na mídia’, 2023\"]",
+    "tags": [
+      "jornalismo",
+      "mídia",
+      "tv",
+      "representatividade trans"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0013",
+    "topico": "Assistência Social",
+    "eixo_tematico": "Sociedade e Ativismo",
+    "descricao": "Abrigos como o Casa 1 (SP) oferecem acolhimento especializado; políticas municipais de juventude em BH iniciaram vacinação e acolhimento psicológico exclusivo para esse público.",
+    "referencias": "[]",
+    "tags": [
+      "população de rua",
+      "abrigo",
+      "casa 1",
+      "jovens",
+      "vulnerabilidade",
+      "acolhimento"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0014",
+    "topico": "Movimentos Sociais",
+    "eixo_tematico": "Sociedade e Ativismo",
+    "descricao": "Marchas como a Parada do Orgulho em São Paulo pressionam por leis antidiscriminação; em 2019, o PL 4.919/2001 avançou no Senado para endurecer penas contra LGBTfobia.",
+    "referencias": "[]",
+    "tags": [
+      "parada lgbt",
+      "ativismo",
+      "leis",
+      "crime de homofobia",
+      "marcha"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0015",
+    "topico": "Família e Adoção",
+    "eixo_tematico": "Direitos e Legislação",
+    "descricao": "Apesar de decisões favoráveis do STF, juízes ainda solicitam relatórios sociais adicionais; estatísticas do CNJ mostram redução de 20% nos recursos negados em 2024.",
+    "referencias": "[\"CNJ, ‘Relatório sobre adoção homoafetiva’, 2024\"]",
+    "tags": [
+      "adoção",
+      "família homoafetiva",
+      "stf",
+      "cnj",
+      "filhos"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0016",
+    "topico": "Escola e Universidade",
+    "eixo_tematico": "Educação e Cultura",
+    "descricao": "Programas de educação sexual que incluem discussões sobre orientação sexual e identidade de gênero promovem ambiente escolar mais acolhedor e reduzem preconceitos.",
+    "referencias": "[\"Lei 13.711/2018 (Escola sem Homofobia)\",\"UNESCO, ‘International technical guidance on sexuality education’ 2018\"]",
+    "tags": [
+      "educação sexual",
+      "escola",
+      "preconceito",
+      "diversidade",
+      "bullying"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0017",
+    "topico": "Saúde Intersex",
+    "eixo_tematico": "Saúde e Bem-estar",
+    "descricao": "A ausência de protocolos de atendimento intersex no SUS e a falta de reconhecimento da anomalia DSD (Distúrbios de Desenvolvimento Sexual) criam lacunas em tratamentos médicos.",
+    "referencias": "[]",
+    "tags": [
+      "intersex",
+      "sus",
+      "dsd",
+      "invisibilidade",
+      "protocolos"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0018",
+    "topico": "Assistência Social",
+    "eixo_tematico": "Sociedade e Ativismo",
+    "descricao": "Pais ou mães solo LGBTQIA+ relatam dificuldade em conquistar benefícios do Bolsa Família; políticas de assistência social ainda não contemplam estruturas familiares diversas.",
+    "referencias": "[]",
+    "tags": [
+      "bolsa família",
+      "família solo",
+      "mães solo",
+      "assistência social",
+      "benefícios"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0019",
+    "topico": "Saúde Geral",
+    "eixo_tematico": "Saúde e Bem-estar",
+    "descricao": "Estudos associam elevados níveis de cortisol em pessoas LGBT a maior incidência de hipertensão; pesquisa da Fiocruz de 2023 correlacionou estresse crônico a doenças cardiovasculares.",
+    "referencias": "[\"FIORUCCI, Marcio et al. ‘Estresse e doenças cardiovasculares em LGBTQIA+’, Fiocruz, 2023\"]",
+    "tags": [
+      "estresse",
+      "doenças cardiovasculares",
+      "preconceito",
+      "fiocruz",
+      "saúde física"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0020",
+    "topico": "Escola e Universidade",
+    "eixo_tematico": "Educação e Cultura",
+    "descricao": "Universidades como a UFRJ e a UFBA criaram cotas específicas e bolsas de apoio psicológico, reduzindo em 15% a evasão de estudantes LGBTQIA+ nos últimos três anos.",
+    "referencias": "[]",
+    "tags": [
+      "cotas",
+      "universidade",
+      "ufrj",
+      "ufba",
+      "permanência estudantil",
+      "ensino superior"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0021",
+    "topico": "O Projeto",
+    "eixo_tematico": "Sobre o Vox",
+    "descricao": "O projeto Vox utiliza inteligência artificial para desenvolver um assistente virtual de apoio à população LGBTQIA+, conectando usuários a serviços e instituições comprometidos com cidadania e respeito às diversidades.",
+    "referencias": "[]",
+    "tags": [
+      "ia",
+      "assistente virtual",
+      "vox",
+      "tecnologia",
+      "inovação"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0022",
+    "topico": "Transparência",
+    "eixo_tematico": "Sobre o Vox",
+    "descricao": "A base de conhecimento do Vox reúne fontes acadêmicas, documentos oficiais, plataformas digitais, organizações da sociedade civil e relatos da comunidade LGBTQIA+, assegurando informação confiável e atualizada.",
+    "referencias": "[]",
+    "tags": [
+      "fontes",
+      "dados confiáveis",
+      "curadoria",
+      "segurança"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0023",
+    "topico": "O Projeto",
+    "eixo_tematico": "Sobre o Vox",
+    "descricao": "Foram definidas como prioritárias: direitos LGBTQIA+, saúde preventiva, acolhimento psicológico, acesso a políticas públicas e serviços essenciais, de acordo com as principais demandas da comunidade.",
+    "referencias": "[]",
+    "tags": [
+      "conteúdo",
+      "prioridades",
+      "saúde",
+      "direitos",
+      "foco"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0024",
+    "topico": "Parcerias",
+    "eixo_tematico": "Sobre o Vox",
+    "descricao": "Colaborações com instituições como Casa Marielle Franco integram tecnologia e práticas de acolhimento, ampliando redes de suporte e fortalecendo o impacto social.",
+    "referencias": "[]",
+    "tags": [
+      "casa marielle franco",
+      "parcerias",
+      "rede de apoio",
+      "colaboração"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0025",
+    "topico": "Acessibilidade",
+    "eixo_tematico": "Sobre o Vox",
+    "descricao": "O assistente prioriza acessibilidade digital e disponibiliza conteúdos sobre direitos, saúde e políticas públicas para qualquer pessoa interessada.",
+    "referencias": "[]",
+    "tags": [
+      "acessibilidade",
+      "inclusão digital",
+      "gratuito",
+      "democratização"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0026",
+    "topico": "Cidadania e Acesso",
+    "eixo_tematico": "Sociedade e Ativismo",
+    "descricao": "Discriminação institucional, falta de capacitação profissional e tabus dificultam o acesso a serviços públicos inclusivos; pesquisa do IBGE de 2022 identificou 30% de negação de atendimento.",
+    "referencias": "[]",
+    "tags": [
+      "discriminação institucional",
+      "serviço público",
+      "ibge",
+      "barreiras",
+      "atendimento"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0027",
+    "topico": "Violência e Segurança",
+    "eixo_tematico": "Direitos e Legislação",
+    "descricao": "Marginalização e violência estruturais elevam riscos de exclusão; o Atlas da Violência 2023 apontou que pessoas trans têm taxa de homicídio 4,2 vezes maior que a média nacional.",
+    "referencias": "[\"Atlas da Violência 2023 (IPEA/FBSP)\"]",
+    "tags": [
+      "violência",
+      "homicídio",
+      "atlas da violência",
+      "pessoas trans",
+      "segurança"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0028",
+    "topico": "Mercado de Trabalho",
+    "eixo_tematico": "Sociedade e Ativismo",
+    "descricao": "Rejeição familiar e discriminação no trabalho geram desemprego de até 25% na população trans; iniciativas de microcrédito tentam diminuir esse impacto.",
+    "referencias": "[]",
+    "tags": [
+      "desemprego",
+      "pessoas trans",
+      "microcrédito",
+      "economia",
+      "exclusão"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0029",
+    "topico": "Violência e Segurança",
+    "eixo_tematico": "Direitos e Legislação",
+    "descricao": "Dados do Anuário Brasileiro de Segurança Pública mostram 3.400 ocorrências de crimes de ódio em 2023; a falta de delegacias especializadas agrava o atendimento.",
+    "referencias": "[\"Anuário Brasileiro de Segurança Pública 2024\"]",
+    "tags": [
+      "crimes de ódio",
+      "segurança pública",
+      "delegacia",
+      "anuário",
+      "polícia"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0030",
+    "topico": "Desinformação",
+    "eixo_tematico": "Educação e Cultura",
+    "descricao": "Verificar fontes como agências de checagem (Aos Fatos, Lupa) e consultar dados oficiais (Ministério da Saúde) ajuda a combater narrativas falsas que reforçam preconceitos.",
+    "referencias": "[]",
+    "tags": [
+      "fake news",
+      "checagem",
+      "desinformação",
+      "fatos",
+      "mentiras"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0031",
+    "topico": "Saúde Sexual",
+    "eixo_tematico": "Saúde e Bem-estar",
+    "descricao": "Campanhas como ‘Teste é Tudo’ orientam sobre uso de preservativos e locais de testagem gratuita; o Sistema Único de Saúde oferece exames sem custo em postos de saúde.",
+    "referencias": "[]",
+    "tags": [
+      "ist",
+      "hiv",
+      "testagem",
+      "sus",
+      "preservativo",
+      "prevenção"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0032",
+    "topico": "Saúde Sexual",
+    "eixo_tematico": "Saúde e Bem-estar",
+    "descricao": "A PrEP previne o HIV antes de exposição e a PEP é tomada até 72h após risco; portaria nº 1.947/2019 regulamenta sua distribuição gratuita no SUS.",
+    "referencias": "[]",
+    "tags": [
+      "prep",
+      "pep",
+      "hiv",
+      "medicamento",
+      "sus",
+      "profilaxia"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0033",
+    "topico": "Saúde Mental",
+    "eixo_tematico": "Saúde e Bem-estar",
+    "descricao": "Grupos de escuta em ONGs como Casa1 e serviços de psicoterapia social em universidades oferecem atendimento sem custo ou a baixo preço.",
+    "referencias": "[]",
+    "tags": [
+      "psicologia",
+      "terapia gratuita",
+      "casa 1",
+      "apoio emocional",
+      "universidades"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0034",
+    "topico": "Cidadania",
+    "eixo_tematico": "Direitos e Legislação",
+    "descricao": "Portaria MS nº 2.227/2019 assegura uso do nome social em prontuários; em casos de recusa, o cidadão pode recorrer à Ouvidoria do SUS. Portaria MS nº 2.227/2019",
+    "referencias": "[]",
+    "tags": [
+      "nome social",
+      "sus",
+      "cartão sus",
+      "direito",
+      "portaria"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0035",
+    "topico": "Acolhimento e Humanização",
+    "eixo_tematico": "Saúde e Bem-estar",
+    "descricao": "Unidades como os Centros de Referência LGBT+ contam com equipes treinadas para atendimento sem discriminação e apoio psicossocial.",
+    "referencias": "[]",
+    "tags": [
+      "centro de referência",
+      "atendimento humanizado",
+      "acolhimento",
+      "equipe técnica"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0036",
+    "topico": "Cidadania",
+    "eixo_tematico": "Direitos e Legislação",
+    "descricao": "Procedimentos como a formalização de denúncia na Defensoria Pública e uso de formulário de atendimento humanizado garantem proteção dos direitos do cidadão.",
+    "referencias": "[]",
+    "tags": [
+      "denúncia",
+      "defensoria pública",
+      "direitos",
+      "atendimento humanizado"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0037",
+    "topico": "Cidadania",
+    "eixo_tematico": "Direitos e Legislação",
+    "descricao": "Lei 13.484/2017 estabelece retificação extrajudicial em cartórios; é necessário apresentar certidão de nascimento e declaração médica ou psicológica.Lei 13.484/2017",
+    "referencias": "[]",
+    "tags": [
+      "retificação",
+      "cartório",
+      "nome e gênero",
+      "documentos",
+      "lei 13.484"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0038",
+    "topico": "Legislação e Justiça",
+    "eixo_tematico": "Direitos e Legislação",
+    "descricao": "A Lei 7.716/1989 equipara LGBTfobia ao crime de racismo; denúncias podem ser feitas no Disque 100 ou na Delegacia de Crimes Raciais e Delitos de Intolerância. Lei 7.716/1989;Disque 100 (Ouvidoria Nacional dos Direitos Humanos)",
+    "referencias": "[]",
+    "tags": [
+      "lei 7.716",
+      "racismo",
+      "crime",
+      "denúncia",
+      "disque 100",
+      "lei"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0039",
+    "topico": "Legislação e Justiça",
+    "eixo_tematico": "Direitos e Legislação",
+    "descricao": "Ouvidorias do SUS, Defensorias Públicas e Ministério Público recebem denúncias; por exemplo, o Disque 180 acolhe casos de violação de direitos humanos.",
+    "referencias": "[]",
+    "tags": [
+      "ouvidoria",
+      "ministério público",
+      "disque 180",
+      "denúncia",
+      "direitos humanos"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0040",
+    "topico": "Família e Adoção",
+    "eixo_tematico": "Direitos e Legislação",
+    "descricao": "Decisões do STF (ADI 4277/2010) reconhecem igualdade no casamento e adoção; cartórios não podem recusar atos civis com base em orientação sexual.",
+    "referencias": "[]",
+    "tags": [
+      "casamento civil",
+      "união estável",
+      "stf",
+      "direitos civis",
+      "cartório"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0041",
+    "topico": "Legislação Trabalhista",
+    "eixo_tematico": "Direitos e Legislação",
+    "descricao": "Normas como a Convenção 111 da OIT orientam empresas; políticas de diversidade internas e canais confidenciais fortalecem a segurança do trabalhador.",
+    "referencias": "[]",
+    "tags": [
+      "trabalho",
+      "oit",
+      "empresas",
+      "diversidade",
+      "emprego"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0042",
+    "topico": "O Projeto",
+    "eixo_tematico": "Sobre o Vox",
+    "descricao": "Plataformas como apps e chatbots reúnem informações sobre direitos e serviços públicos, centralizando guias de orientações de forma gratuita.",
+    "referencias": "[]",
+    "tags": [
+      "app",
+      "chatbot",
+      "tecnologia social",
+      "gratuito"
+    ],
+    "validated": 1
+  },
+  {
+    "kb_id": "vox-kb-0043",
+    "topico": "Rede de Apoio",
+    "eixo_tematico": "Sociedade e Ativismo",
+    "descricao": "Diretórios online listam organizações como a Casa Nem em SP e o Grupo Gay da Bahia, oferecendo apoio jurídico, psicológico e cultural.",
+    "referencias": "[]",
+    "tags": [
+      "ongs",
+      "coletivos",
+      "casa nem",
+      "grupo gay da bahia",
+      "acolhimento"
+    ],
+    "validated": 1
+  }
+]

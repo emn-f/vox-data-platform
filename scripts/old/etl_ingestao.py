@@ -7,7 +7,7 @@ from pypdf import PdfReader
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from scripts.db_connect import get_database, get_gemini_embedding, logger
+from scripts.old.db_connect import get_database, get_gemini_embedding, logger
 
 
 def extrair_texto_pdf(path_file: str) -> str:

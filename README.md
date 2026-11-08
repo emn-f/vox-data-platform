@@ -105,3 +105,9 @@ Para executar os testes automatizados:
 ```bash
 pytest
 ```
+
+---
+
+<div align="center">
+    <p>Copyright © {ANO_ATUAL} Vox AI: Sua dúvida merece uma resposta segura</p>
+</div>

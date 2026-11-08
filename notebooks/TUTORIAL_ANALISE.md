@@ -150,3 +150,9 @@ Depois de ter o DataFrame (ex: `df`) carregado com sucesso, explore os seguintes
 2. Crie o notebook `02_analise_conversas.ipynb`.
 3. Escreva a primeira célula de configuração de caminho e execute.
 4. Escolha se prefere criar a View (Abordagem A) ou usar conexão direta (Abordagem B) e implemente a carga dos dados.
+
+---
+
+<div align="left">
+    <p>© 2026 Vox AI: Segurança para ser quem você é.</p>
+</div>
